@@ -1,3 +1,4 @@
+
 html,
 body{
   width: 100%;
@@ -29,6 +30,23 @@ body{
 
 #contact>address {
   padding-top: 16px;
+}
+
+/*##### SKILLS SECTION #####*/
+
+.skills-section {
+  margin-top: -10px;
+  padding-bottom: 20px;
+  margin-bottom: 2px;
+  box-shadow: 0 2px 2px gray;
+}
+
+.skill {
+  display: inline-block;
+}
+
+.known-skill span {
+  background: #4CAF50;
 }
 
 /*##### PORTFOLIO SECTION #####*/
