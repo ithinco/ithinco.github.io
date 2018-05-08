@@ -75,7 +75,8 @@ body{
 }
 
 .project-img {
-  margin: 0 30px;
+  margin: 0 auto;
+  width: 80%;
 }
 
 .project-name {
